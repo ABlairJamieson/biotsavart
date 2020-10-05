@@ -2,10 +2,7 @@
 
 Simple code to calculate the magnetic field in Hyper-Kamkokande.
 
-To build the code you will need root, but otherwise just type:
-""" > make
-
-
+To build the code you will need root, but otherwise just type "make" at the command line.
 
 Biotsavart calculation classes include:
 - WireElement --  to represent a step along a wire
