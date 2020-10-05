@@ -3,9 +3,8 @@
 Simple code to calculate the magnetic field in Hyper-Kamkokande.
 
 To build the code you will need root, but otherwise just type:
-""" 
-> make
-"""
+""" > make
+
 
 
 Biotsavart calculation classes include:
